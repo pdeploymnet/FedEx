@@ -5,6 +5,9 @@ body {
   overflow-x: hidden;
 }
 
+.nav-link {
+  padding: 0 !important;
+}
 
 ul li a {
   font-size: 15px !important;
